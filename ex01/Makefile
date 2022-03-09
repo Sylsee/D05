@@ -6,14 +6,14 @@
 #    By: spoliart <spoliart@42.fr>                  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/01/24 14:54:10 by spoliart          #+#    #+#              #
-#    Updated: 2022/02/05 17:50:06 by spoliart         ###   ########.fr        #
+#    Updated: 2022/03/09 18:18:49 by spoliart         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME	=	bureaucrat
 
 CC		=	c++
-CFLAGS	=	-Wall -Wextra -Werror -std=c++98 -g
+CFLAGS	=	-Wall -Wextra -Werror -std=c++98
 
 SRCS	=	main.cpp \
 			Bureaucrat.cpp \
